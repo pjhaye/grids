@@ -1,0 +1,15 @@
+{
+  "name": "com.pjvideogames.grids",
+  "version": "0.0.1",
+  "displayName": "Grids",
+  "description": "Grid implementations",
+  "unity": "2021.1",
+  "keywords": [
+    "grids"
+  ],
+  "author": {
+    "name": "PJ Haye",
+    "email": "pj.haye@gmail.com"
+  },
+  "type": "module"
+}
