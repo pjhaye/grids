@@ -1,5 +1,5 @@
 {
-    "name": "pjvideogames.grids.runtime",
+    "name": "PjVideoGames.Grids",
     "rootNamespace": "Grids",
     "references": [],
     "includePlatforms": [],
